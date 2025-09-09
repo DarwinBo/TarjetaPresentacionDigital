@@ -1,0 +1,6 @@
+.container__cajas{
+    display: flex;
+    text-align: center;
+    flex-flow: column;
+    width: 320px; 
+}

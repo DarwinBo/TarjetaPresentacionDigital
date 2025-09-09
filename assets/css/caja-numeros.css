@@ -1,0 +1,8 @@
+.caja__numeros{
+    background:linear-gradient(#ffffff,#dfdfdf) ;
+    display: flex;
+    justify-content: space-around;
+    border-top: 2px solid #7e7d7d;
+    height: 85px;
+    border-radius: 0px 0px 20px 20px;
+}

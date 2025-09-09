@@ -1,0 +1,13 @@
+.imagen__foto{
+    display: flex;
+    position: absolute;
+    margin: auto;
+    margin-bottom: none;
+    margin-top: 4rem;
+    width: 110px;
+    height: 115px;
+    border:4px solid #ffffff;
+    border-radius: 100%;
+    
+   
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(9, 155, 227);
+    overflow: hidden;
+}
+.container__full{
+    position: relative;
+   
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;      
+}
+
+.top__circle{
+    position: absolute;
+    top: -400;
+    left: -100;
+    
+}
+
+.bottom__circle{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}
+
